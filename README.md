@@ -1,2 +1,2 @@
-# recipes
+# Recipes
 Personal recipes in markdown format

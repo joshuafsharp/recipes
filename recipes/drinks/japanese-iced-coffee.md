@@ -1,7 +1,7 @@
 
 # Japanese-style Iced Coffee - アイスコーヒー
 
-![Final result](../assets/recipes/japanese-iced-coffee/1.jpeg)
+![Final result](../../assets/recipes/drinks/japanese-iced-coffee/1.jpeg)
 
 ## Equipment
 - Pourover dripper

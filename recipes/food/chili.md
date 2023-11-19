@@ -38,4 +38,4 @@
 
 
 ## References
-This recipe is adapted from the [Chili Cheese Smashburgers](https://www.notanothercookingshow.tv/post/chili-cheese-burgers) by Steve Cusato from Not Another Cooking Show. The original recipe can be found
+This recipe is adapted from the [Chili Cheese Smashburgers](https://www.notanothercookingshow.tv/post/chili-cheese-burgers) by Steve Cusato from Not Another Cooking Show.
